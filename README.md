@@ -12,6 +12,7 @@ Half Subtractor:
 •	Difference = A ⊕ B
 •	Borrow = A' . B
 
+
 ### Files to be Created
 File name	Purpose
 half_add_sub.v	Arithmetic-circuit RTL
@@ -138,7 +139,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 <img width="1600" height="849" alt="WhatsApp Image 2026-11-02 at 14 25 51" src="https://github.com/user-attachments/assets/079df3a8-b979-410a-aaf2-5baf62cf622a" />
 
-<img width="1600" height="849" alt="WhatsApp Image 2026-11-02 at 14 25 51" src="https://github.com/user-attachments/assets/561cf34c-5286-4777-aefb-b0d07c821774" />
+<img width="1600" height="845" alt="WhatsApp Image 2026-11-02 at 14 26 37" src="https://github.com/user-attachments/assets/cccce3bd-6248-4414-a4b5-99d3391c76dd" />
+
 
 ### Result
 
